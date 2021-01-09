@@ -10,14 +10,14 @@ Checks if an <<index-templates, index template>> exists.
 
 [source,console]
 -----------------------------------------------
-HEAD /_template/template_1
+HEAD /_index_template/template_1
 -----------------------------------------------
 
 
 [[template-exists-api-request]]
 ==== {api-request-title}
 
-`HEAD /_template/<index-template>`
+`HEAD /_index_template/<index-template>`
 
 
 [[template-exists-api-desc]]
